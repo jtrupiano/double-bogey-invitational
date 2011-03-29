@@ -2,4 +2,48 @@ body {
   background-image: url('../images/golf.png');
   background-repeat: no-repeat;
   background-position: center top;
+  font-family: Tahoma, Geneva, sans-serif;
 }
+
+h1 {
+	background-image: url('../images/h1.png');
+	background-repeat: no-repeat;
+	width: 960px;
+	height: 141px;
+	margin: 0 auto;
+}
+
+#details {
+	color: #ffff00;
+	width: 960px;
+	margin: 30px auto 0 auto;
+}
+
+#details div {
+	margin: 4px 0;
+}	
+
+#details span {
+	display: inline-block;
+	width: 6em;
+	text-align: right;	
+	font-weight: bold;
+}
+
+#details a {
+	color: #f0523d;
+	text-decoration: none;
+}
+
+#details a:hover {
+	text-decoration: underline;
+}
+
+#footer {
+	color: #ffff00;
+	width: 960px;
+	font-size: 16px;
+	text-align: right;
+	margin: 450px auto 0 auto;
+}
+	
