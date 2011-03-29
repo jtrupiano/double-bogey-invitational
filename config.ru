@@ -1,1 +1,1 @@
-run Rack::Directory.new('public')
+run Rack::Directory.new('./public')
