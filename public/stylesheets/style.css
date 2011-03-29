@@ -1,5 +1,5 @@
 body {
-  background-image: url('images/golf.png');
+  background-image: url('../images/golf.png');
   background-repeat: no-repeat;
   background-position: center top;
 }
