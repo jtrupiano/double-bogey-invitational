@@ -3,6 +3,7 @@ body {
   background-repeat: no-repeat;
   background-position: center top;
   font-family: Tahoma, Geneva, sans-serif;
+  background-color: #277464;
 }
 
 h1 {
@@ -44,6 +45,30 @@ h1 {
 	width: 960px;
 	font-size: 16px;
 	text-align: right;
-	margin: 450px auto 0 auto;
+	margin: 470px auto 0 auto;
 }
 	
+#recap {
+  margin: 75px auto 0 auto;
+  width: 720px
+}
+
+#recap p, #recap h2 {
+  color: white;
+}
+
+#recap div.image_row {
+  text-align: center;
+  margin: auto;
+  width: 360px;
+  float: left;
+}
+
+#recap a {
+  color: #ffff00;
+  text-decoration: none;
+}
+
+#recap img {
+  margin: 8px;
+}
